@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 13em;
+  height: 13em;
+}
+
+.pixel-logo {
+  display: block;
+  width: 1em;
+  height: 1em;
+  box-shadow:
+        4em 0 blue,
+        5em 0 blue,
+        6em 0 blue,
+        7em 0 blue,
+        8em 0 blue,
+
+        2em 1em blue,
+        3em 1em blue,
+        4em 1em blue,
+        5em 1em blue,
+        6em 1em blue,
+        7em 1em blue,
+        8em 1em blue,
+        9em 1em blue,
+        10em 1em blue,
+
+        1em 2em blue,
+        2em 2em blue,
+        3em 2em blue,
+        4em 2em blue,
+        5em 2em blue,
+        6em 2em yellow,
+        7em 2em blue,
+        8em 2em blue,
+        9em 2em blue,
+        10em 2em blue,
+        11em 2em blue,
+
+        1em 3em blue,
+        2em 3em blue,
+        3em 3em yellow,
+        4em 3em blue,
+        5em 3em blue,
+        6em 3em yellow,
+        7em 3em blue,
+        8em 3em blue,
+        9em 3em yellow,
+        10em 3em blue,
+        11em 3em blue,
+
+        0em 4em blue,
+        1em 4em blue,
+        2em 4em blue,
+        3em 4em blue,
+        4em 4em yellow,
+        5em 4em blue,
+        6em 4em blue,
+        7em 4em blue,
+        8em 4em yellow,
+        9em 4em blue,
+        10em 4em blue,
+        11em 4em blue,
+        12em 4em blue,
+
+        0em 5em blue,
+        1em 5em blue,
+        2em 5em blue,
+        3em 5em blue,
+        4em 5em blue,
+        5em 5em blue,
+        6em 5em blue,
+        7em 5em blue,
+        8em 5em blue,
+        9em 5em blue,
+        10em 5em blue,
+        11em 5em blue,
+        12em 5em blue,
+
+        0em 6em blue,
+        1em 6em blue,
+        2em 6em yellow,
+        3em 6em yellow,
+        4em 6em blue,
+        5em 6em blue,
+        6em 6em yellow,
+        7em 6em blue,
+        8em 6em blue,
+        9em 6em yellow,
+        10em 6em yellow,
+        11em 6em blue,
+        12em 6em blue,
+
+        0em 7em blue,
+        1em 7em blue,
+        2em 7em blue,
+        3em 7em blue,
+        4em 7em blue,
+        5em 7em yellow,
+        6em 7em blue,
+        7em 7em blue,
+        8em 7em blue,
+        9em 7em blue,
+        10em 7em blue,
+        11em 7em blue,
+        12em 7em blue,
+
+        0em 8em blue,
+        1em 8em blue,
+        2em 8em blue,
+        3em 8em blue,
+        4em 8em yellow,
+        5em 8em blue,
+        6em 8em blue,
+        7em 8em blue,
+        8em 8em yellow,
+        9em 8em blue,
+        10em 8em blue,
+        11em 8em blue,
+        12em 8em blue,
+
+        1em 9em blue,
+        2em 9em blue,
+        3em 9em yellow,
+        4em 9em blue,
+        5em 9em blue,
+        6em 9em yellow,
+        7em 9em blue,
+        8em 9em blue,
+        9em 9em yellow,
+        10em 9em blue,
+        11em 9em blue,
+
+        1em 10em blue,
+        2em 10em blue,
+        3em 10em blue,
+        4em 10em blue,
+        5em 10em blue,
+        6em 10em yellow,
+        7em 10em blue,
+        8em 10em blue,
+        9em 10em blue,
+        10em 10em blue,
+        11em 10em blue,
+
+        2em 11em blue,
+        3em 11em blue,
+        4em 11em blue,
+        5em 11em blue,
+        6em 11em blue,
+        7em 11em blue,
+        8em 11em blue,
+        9em 11em blue,
+        10em 11em blue,
+
+        4em 12em blue,
+        5em 12em blue,
+        6em 12em blue,
+        7em 12em blue,
+        8em 12em blue;
+}
